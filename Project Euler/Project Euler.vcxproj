@@ -19,10 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Q1.cpp" />
+    <ClCompile Include="src\Q2\Q2.cpp" />
+    <ClCompile Include="src\Q2\Q2_Main.cpp" />
+    <ClCompile Include="src\Q1\Q1.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Q1.h" />
+    <ClInclude Include="src\Q2\Q2.h" />
+    <ClInclude Include="src\Q1\Q1.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
