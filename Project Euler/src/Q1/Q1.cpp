@@ -1,4 +1,7 @@
-#pragma once
+#include <iostream>
+
+using namespace std;
+
 int sum() {
     int sum = 0;
     for (int i = 1; i < 1000; i++) {
@@ -8,3 +11,5 @@ int sum() {
     }
     return sum;
 }
+
+
