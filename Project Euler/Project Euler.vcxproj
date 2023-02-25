@@ -19,13 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Q3.cpp" />
-    <ClCompile Include="Q3_Main.cpp" />
+    <ClCompile Include="Q4.cpp" />
+    <ClCompile Include="Q4_Main.cpp" />
     <ClCompile Include="src\Q2\Q2.cpp" />
-    
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q3.h" />
+    <ClInclude Include="Q4.h" />
     <ClInclude Include="src\Q2\Q2.h" />
     <ClInclude Include="src\Q1\Q1.h" />
   </ItemGroup>
