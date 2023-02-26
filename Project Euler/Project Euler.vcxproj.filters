@@ -18,16 +18,16 @@
     <ClCompile Include="src\Q2\Q2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Q3.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Q3_Main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Q4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Q4_Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5_Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -42,6 +42,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Q4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q5.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
