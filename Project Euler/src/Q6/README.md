@@ -1,5 +1,5 @@
 # Question
-![Image](Screenshot 2023-02-27 204213.jpg)
+![Image](Screenshot.jpg)
 
 # Answer
 - The for loop runs from i=1 to i=100, and for each i, it calculates the square of i and adds it to the variable sumOfsq. Additionally, it adds the value of i to the variable sum.
