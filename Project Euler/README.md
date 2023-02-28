@@ -9,3 +9,4 @@ Project Euler is a series of challenging mathematical/computer programming probl
 - [Problem 04](https://github.com/Manithj/Project_Euler/tree/late_sub/Project%20Euler/src/Q4)
 - [Problem 05](https://github.com/Manithj/Project_Euler/tree/dev/Project%20Euler/src/Q5)
 - [Problem 06](https://github.com/Manithj/Project_Euler/tree/dev/Project%20Euler/src/Q6)
+- [Problem 07](https://github.com/Manithj/Project_Euler/tree/dev/Project%20Euler/src/Q7)
