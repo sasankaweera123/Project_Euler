@@ -19,6 +19,5 @@ int prime() {
         }
         num += 2; 
     }
-    cout << num - 2 << endl;
-    return 0;
+    return num - 2;
 }
