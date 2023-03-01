@@ -4,10 +4,7 @@
     <projectFile>Project Euler.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f07fd11-b3be-4608-90e4-0bc8be247913" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Project Euler.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Project Euler.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="2f07fd11-b3be-4608-90e4-0bc8be247913" name="Changes" comment="added Q8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,8 +94,16 @@
       <workItem from="1677571183322" duration="630000" />
       <workItem from="1677575129731" duration="667000" />
       <workItem from="1677577115558" duration="1732000" />
-      <workItem from="1677649180832" duration="748000" />
+      <workItem from="1677649180832" duration="1067000" />
     </task>
+    <task id="LOCAL-00001" summary="added Q8">
+      <created>1677650201553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677650201553</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,5 +112,7 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="added Q8" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Q8" />
   </component>
 </project>
