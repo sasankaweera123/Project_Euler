@@ -6,6 +6,7 @@
 #include "..\src\Q5\Q5.h"
 #include "..\src\Q6\Q6.h"
 #include "..\src\Q7\Q7.h"
+#include "Q8/Q8.h"
 using namespace std;
 
 int main() {
@@ -33,6 +34,9 @@ int main() {
         break;
     case 7:
         cout << prime();
+        break;
+    case 8:
+        cout << product();
         break;
     default:
         cout << "Error";
