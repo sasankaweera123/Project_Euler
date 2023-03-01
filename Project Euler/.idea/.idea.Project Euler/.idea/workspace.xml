@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f07fd11-b3be-4608-90e4-0bc8be247913" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Q8/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q8/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project Euler/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project Euler/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +98,8 @@
       <workItem from="1677575129731" duration="667000" />
       <workItem from="1677577115558" duration="1732000" />
       <workItem from="1677649180832" duration="1685000" />
+      <workItem from="1677651079201" duration="614000" />
+      <workItem from="1677687036284" duration="55000" />
     </task>
     <task id="LOCAL-00001" summary="added Q8">
       <created>1677650201553</created>
