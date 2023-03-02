@@ -7,6 +7,7 @@
 #include "..\src\Q6\Q6.h"
 #include "..\src\Q7\Q7.h"
 #include "Q8/Q8.h"
+#include "Q9/Q9.h"
 using namespace std;
 
 int main() {
@@ -37,6 +38,9 @@ int main() {
         break;
     case 8:
         cout << product();
+        break;
+    case 9:
+        cout << pythagorean();
         break;
     default:
         cout << "Error";
