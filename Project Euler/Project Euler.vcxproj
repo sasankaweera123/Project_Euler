@@ -28,6 +28,7 @@
     <ClCompile Include="src\Q6\Q6.cpp" />
     <ClCompile Include="src\Q7\Q7.cpp" />
     <ClCompile Include="src\Q8\Q8.cpp" />
+    <ClCompile Include="src\Q9\Q9.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Q2\Q2.h" />
@@ -38,6 +39,7 @@
     <ClInclude Include="src\Q6\Q6.h" />
     <ClInclude Include="src\Q7\Q7.h" />
     <ClInclude Include="src\Q8\Q8.h" />
+    <ClInclude Include="src\Q9\Q9.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

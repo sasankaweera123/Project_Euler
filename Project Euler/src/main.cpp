@@ -1,12 +1,13 @@
 #include <iostream>
-#include "..\src\Q1\Q1.h"
-#include "..\src\Q2\Q2.h"
-#include "..\src\Q3\Q3.h"
-#include "..\src\Q4\Q4.h"
-#include "..\src\Q5\Q5.h"
-#include "..\src\Q6\Q6.h"
-#include "..\src\Q7\Q7.h"
+#include "Q1/Q1.h"
+#include "Q2/Q2.h"
+#include "Q3/Q3.h"
+#include "Q4/Q4.h"
+#include "Q5/Q5.h"
+#include "Q6/Q6.h"
+#include "Q7/Q7.h"
 #include "Q8/Q8.h"
+#include "Q9/Q9.h"
 using namespace std;
 
 int main() {
@@ -37,6 +38,9 @@ int main() {
         break;
     case 8:
         cout << product();
+        break;
+    case 9:
+        cout << pythagorean();
         break;
     default:
         cout << "Error";
