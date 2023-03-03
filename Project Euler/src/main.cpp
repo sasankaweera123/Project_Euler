@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Q1/Q1.h"
+#include "Q10/Q10.h"
 #include "Q2/Q2.h"
 #include "Q3/Q3.h"
 #include "Q4/Q4.h"
@@ -41,6 +42,9 @@ int main() {
         break;
     case 9:
         cout << pythagorean();
+        break;
+    case 10:
+        cout << primeSum();
         break;
     default:
         cout << "Error";
